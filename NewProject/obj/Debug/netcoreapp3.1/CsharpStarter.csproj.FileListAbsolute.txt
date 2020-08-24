@@ -1,0 +1,13 @@
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.csprojAssemblyReference.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.AssemblyInfoInputs.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.AssemblyInfo.cs
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.csproj.CoreCompileInputs.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.exe
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.deps.json
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.runtimeconfig.json
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.runtimeconfig.dev.json
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.dll
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\bin\Debug\netcoreapp3.1\CsharpStarter.pdb
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.dll
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.pdb
+C:\Users\mikez\source\repos\NewProjectForLearning\NewProject\obj\Debug\netcoreapp3.1\CsharpStarter.genruntimeconfig.cache

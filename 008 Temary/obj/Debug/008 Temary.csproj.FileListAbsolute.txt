@@ -1,0 +1,7 @@
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\bin\Debug\008 Temary.exe.config
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\bin\Debug\008 Temary.exe
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\bin\Debug\008 Temary.pdb
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\obj\Debug\008 Temary.csprojAssemblyReference.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\obj\Debug\008 Temary.csproj.CoreCompileInputs.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\obj\Debug\008 Temary.exe
+C:\Users\mikez\source\repos\NewProjectForLearning\008 Temary\obj\Debug\008 Temary.pdb

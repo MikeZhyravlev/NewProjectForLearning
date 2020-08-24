@@ -1,0 +1,7 @@
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\bin\Debug\005 Autentication.exe.config
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\bin\Debug\005 Autentication.exe
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\bin\Debug\005 Autentication.pdb
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\obj\Debug\005 Autentication.csprojAssemblyReference.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\obj\Debug\005 Autentication.csproj.CoreCompileInputs.cache
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\obj\Debug\005 Autentication.exe
+C:\Users\mikez\source\repos\NewProjectForLearning\005 Autentication\obj\Debug\005 Autentication.pdb
