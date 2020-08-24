@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikez\\source\\repos\\NewProjectForLearning\\NewProject\\NewProject.csproj",
-      "projectName": "NewProject",
-      "projectPath": "C:\\Users\\mikez\\source\\repos\\NewProjectForLearning\\NewProject\\NewProject.csproj",
+      "projectUniqueName": "C:\\Users\\mikez\\source\\repos\\NewProjectForLearning\\NewProject\\CsharpStarter.csproj",
+      "projectName": "CsharpStarter",
+      "projectPath": "C:\\Users\\mikez\\source\\repos\\NewProjectForLearning\\NewProject\\CsharpStarter.csproj",
       "packagesPath": "C:\\Users\\mikez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mikez\\source\\repos\\NewProjectForLearning\\NewProject\\obj\\",
       "projectStyle": "PackageReference",
